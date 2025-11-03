@@ -45,5 +45,5 @@
 
 ## 🚀 How to Access
 
-  🔗 [Click here to visit Stopwatch App](https://fejoejs.github.io/SCT_WD_2/)
+  🔗 [Click here to visit Stopwatch App](https://fejoejs.github.io/STOPWATCH/)
 
