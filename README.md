@@ -1,8 +1,4 @@
-# SCT\_WD\_2
-
-## 🌍 SkillCraft Internship Task
-
-
+## ⏱️ Stopwatch
 
 ## 📝 Overview
 
