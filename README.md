@@ -1,8 +1,9 @@
 ## ⏱️ Stopwatch
 
+
 ## 📝 Overview
 
-  This project is a Stopwatch Web Application developed as part of the SkillCraft Web Development Internship. It is designed to accurately measure and record time intervals with features like start, pause, reset, and lap tracking. The app is built using clean HTML,       CSS, and JavaScript, with a focus on responsiveness and ease of use across all devices.
+ It is designed to accurately measure and record time intervals with features like start, pause, reset, and lap tracking. The app is built using clean HTML,CSS, and JavaScript, with a focus on responsiveness and ease of use across all devices.
 
 
 
